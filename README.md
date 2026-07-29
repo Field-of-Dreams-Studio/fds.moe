@@ -1,40 +1,83 @@
-# P-Mine.github.io 
+# Field of Dream Studio Official Website
 
-## \static 
+Field of Dream Studio (FDS) is a comprehensive creative non-profit organization engaged in Minecraft development, game design, web technology, and art design.
 
-In this folder, the static components of the website is stored. 
+## Multi-Language Support
 
-### \footdiv.html 
+This website supports multiple languages:
 
-In footdiv, the information of the page is stored 
+- **English** (Default): `/` (root directory)
+- **简体中文** (Simplified Chinese): `/zh-hans/`
+- **繁體中文** (Traditional Chinese): `/zh-hant/`
+- **日本語** (Japanese): `/ja/`
 
-### \navbar.html 
+### Directory Structure
 
-This is used to store the navbar of the website 
+```
+fds.moe/
+├── index.html              # English version (root)
+├── images/                 # Shared images (all languages)
+│   ├── background.png
+│   ├── logo.png
+│   ├── starfall.png
+│   ├── pmine.png
+│   └── tech.png
+├── zh-hans/
+│   └── index.html          # Simplified Chinese version
+├── zh-hant/
+│   └── index.html          # Traditional Chinese version
+└── ja/
+    └── index.html          # Japanese version
+```
 
-### \libs 
+### SEO & i18n Implementation
 
-This stores the libs of the website 
+- All versions include `hreflang` meta tags for proper SEO
+- Language switcher in footer on all pages
+- Shared image resources to optimize loading speed
+- English comments in all code versions for maintainability
 
-#### \jquery.js 
+## Features
 
-This is a segment of code from jQuery JavaScript Library v1.9.1, visit this website to check the lisence for this file: http://jquery.com/  
+- **Responsive Design**: Mobile-first design with optimized breakpoints
+- **Smooth Scrolling**: Enhanced navigation with smooth scroll animations
+- **Glassmorphism UI**: Modern blur effects for navbar
+- **Project Showcase**: Three main projects (StarFall, PMINE Toolkit, Tech Development)
+- **Single-file Architecture**: Self-contained HTML with embedded CSS/JS
 
-## Development  
+## Projects
 
-In this folder, the development stages and the documents of the websites are stored 
+### Project-StarFall
+A complete fantasy world project featuring:
+- Minecraft city map
+- Light novel "The World Convergence Principle" (セカイ収束原理)
+- Rust web framework
 
-## index 
+### PMINE Toolkit
+Automated tools for Minecraft creators:
+- Skin pack creation
+- Command generators
+- BBCode editors
 
-# Contribution 
+### Tech Development
+Rust-based web frameworks:
+- Starberry
+- Akari
 
-Copyright Project-MINE 2023-2023, all codes without special notes under CC-BY lisence 
+## Development
 
-## Author 
-Redstone 
-Xiaoyan 
+### Code Comments Language
+All code comments are in **English** to ensure maintainability and collaboration across international teams.
 
-## Libs 
+### Technical Terms
+Technical terms (Rust, Minecraft, BBCode, etc.) remain in English across all language versions for consistency and searchability.
 
-\libs\jquery.js lisenced as MIT, from http://jquery.com/  
+## Authors
 
+Field of Dream Studio Team (FDS)
+
+## Copyright
+
+© 2017-2026 Field of Dream Studio (FDS)
+
+**Note**: This is NOT an open-source project. All rights reserved.
