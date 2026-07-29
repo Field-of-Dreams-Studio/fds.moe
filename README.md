@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Field of Dream Studio Official Website
 
 Field of Dream Studio (FDS) is a comprehensive creative non-profit organization engaged in Minecraft development, game design, web technology, and art design.
@@ -81,3 +82,9 @@ Field of Dream Studio Team (FDS)
 © 2017-2026 Field of Dream Studio (FDS)
 
 **Note**: This is NOT an open-source project. All rights reserved.
+=======
+# README.md
+
+- en [English](readme/readme_en.md)
+- zh [Chinese](readme/readme_zh.md)
+>>>>>>> 7405e1ffd11e25b920bf8deb6b26e081296f9f73
