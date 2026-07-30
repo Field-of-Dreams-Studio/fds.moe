@@ -28,12 +28,13 @@ footdiv的页面信息将被储存到这里。
 
 # 版权 
 
-Copyright FDS 2023-2024. 无特殊说明，CC-BY所有代码授权。
+Copyright FDS 2023-2026. 无特殊说明，CC-BY所有代码授权。
 
 ## 作者 
 * 我是Redstone 
 * 小研
 * lihl（zh）
+* wsseieiei
 
 ## 库
 

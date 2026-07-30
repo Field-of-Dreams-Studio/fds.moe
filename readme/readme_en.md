@@ -28,11 +28,13 @@ In this folder, the development stages and the documents of the websites are sto
 
 # Contribution 
 
-Copyright Project-MINE 2023-2023, all codes without special notes under CC-BY lisence 
+Copyright FDS 2023-2026, all codes without special notes under CC-BY lisence 
 
 ## Author 
-Redstone 
-Xiaoyan 
+* Redstone 
+* Xiaoyan 
+* lihl (zh)
+* wsseieiei
 
 ## Libs 
 
